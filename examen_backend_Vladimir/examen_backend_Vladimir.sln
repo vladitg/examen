@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "examen_backend_Vladimir", "examen_backend_Vladimir\examen_backend_Vladimir.csproj", "{86774E95-C6FB-4EF6-ABB5-4A14F6DC3C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86774E95-C6FB-4EF6-ABB5-4A14F6DC3C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86774E95-C6FB-4EF6-ABB5-4A14F6DC3C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86774E95-C6FB-4EF6-ABB5-4A14F6DC3C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86774E95-C6FB-4EF6-ABB5-4A14F6DC3C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A546D19-0BF9-45F3-9A88-F36C1D086374}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 80
+		$2.TabsToSpaces = True
+		$2.scope = text/x-web
+	EndGlobalSection
+EndGlobal

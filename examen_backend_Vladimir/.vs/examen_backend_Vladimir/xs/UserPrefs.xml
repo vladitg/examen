@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{86774E95-C6FB-4EF6-ABB5-4A14F6DC3C5B}|Default">
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workbench ActiveDocument="examen_backend_Vladimir/Models/InformacionUsuarios.cs">
+    <Files>
+      <File FileName="examen_backend_Vladimir/Controllers/UsuariosController.cs" Line="20" Column="10" />
+      <File FileName="examen_backend_Vladimir/Models/InformacionUsuarios.cs" Line="17" Column="1" />
+      <File FileName="examen_backend_Vladimir/Repositories/IUsuarioRepository.cs" Line="16" Column="1" />
+      <File FileName="examen_backend_Vladimir/Repositories/UsuarioRepository.cs" Line="100" Column="1" />
+      <File FileName="examen_backend_Vladimir/appsettings.json" Line="10" Column="21" />
+      <File FileName="examen_backend_Vladimir/MySQLConfiguration.cs" Line="13" Column="2" />
+      <File FileName="examen_backend_Vladimir/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="examen_backend_Vladimir" expanded="True">
+            <Node name="examen_backend_Vladimir" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="InformacionUsuarios.cs" selected="True" />
+              </Node>
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.examen__backend__Vladimir PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
